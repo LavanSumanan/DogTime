@@ -1,0 +1,6 @@
+framework module Pods_DogTime {
+  umbrella header "Pods-DogTime-umbrella.h"
+
+  export *
+  module * { export * }
+}
